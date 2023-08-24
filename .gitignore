@@ -1,0 +1,14 @@
+# .gitignore for CLion
+
+# Ignore the .idea folder created by CLion
+.idea/
+
+# Ignore build output directories
+cmake-build-debug/
+cmake-build-release/
+
+# Ignore .iml files
+*.iml
+
+# Ignore user-specific settings
+*.iws
